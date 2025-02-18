@@ -17,8 +17,3 @@ and `SUPERUSER_INITIAL_PASSWORD` variables of settings file
 
 `python manage.py demodata`<br>
 generate some demo data base of maintainer of this project portfolio 
-
-
-
-# Credits
-* [devportolio](https://github.com/mahdimehrabi/devportfolio)  frontend project
